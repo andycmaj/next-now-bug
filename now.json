@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nextjs-serverless",
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@now/node-server"
+    }
+  ]
+}
